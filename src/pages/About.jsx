@@ -34,7 +34,7 @@ const About = () => {
                         animate={{ opacity: 1, y: 0 }}
                         className="text-center text-white"
                     >
-                        <h1 className="text-4xl md:text-5xl font-bold mb-4">About EduLearn</h1>
+                        <h1 className="text-4xl md:text-5xl font-bold mb-4">About EduCare</h1>
                         <p className="text-xl text-blue-100 max-w-2xl mx-auto">
                             Empowering learners worldwide with quality education since 2015
                         </p>
@@ -54,7 +54,7 @@ const About = () => {
                                 Transforming Lives Through Education
                             </h2>
                             <p className="text-lg text-gray-600 mb-6">
-                                EduLearn was founded with a simple mission: to make quality education accessible to everyone, everywhere.
+                                EduCare was founded with a simple mission: to make quality education accessible to everyone, everywhere.
                                 We believe that learning should be engaging, flexible, and tailored to individual needs.
                             </p>
                             <p className="text-lg text-gray-600 mb-8">
@@ -124,7 +124,7 @@ const About = () => {
                     <SectionTitle
                         subtitle="OUR VALUES"
                         title="What Drives Us Forward"
-                        description="These core principles guide everything we do at EduLearn"
+                        description="These core principles guide everything we do at EduCare"
                     />
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                         {values.map((value, index) => (

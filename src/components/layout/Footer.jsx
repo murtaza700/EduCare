@@ -27,7 +27,7 @@ const Footer = () => {
                     <div>
                         <div className="flex items-center space-x-2 mb-4">
                             <GraduationCap className="w-8 h-8 text-blue-400" />
-                            <span className="font-bold text-xl">EduLearn</span>
+                            <span className="font-bold text-xl">EduCare</span>
                         </div>
                         <p className="text-gray-400 mb-4">
                             Empowering learners worldwide with quality education and expert instructors.
@@ -73,8 +73,8 @@ const Footer = () => {
                             </li>
                             <li className="flex items-center space-x-3">
                                 <Mail className="w-5 h-5 text-blue-400 flex-shrink-0" />
-                                <a href="mailto:info@edulearn.com" className="text-gray-400 hover:text-white">
-                                    info@edulearn.com
+                                <a href="mailto:info@educare.com" className="text-gray-400 hover:text-white">
+                                    info@educare.com
                                 </a>
                             </li>
                             <li className="flex items-center space-x-3">
@@ -105,7 +105,7 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-                    <p>&copy; {new Date().getFullYear()} EduLearn. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} EduCare. All rights reserved.</p>
                 </div>
             </div>
         </footer>

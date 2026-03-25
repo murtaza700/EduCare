@@ -37,7 +37,7 @@ const Navbar = () => {
 
                     <Link to="/" className="flex items-center space-x-2">
                         <GraduationCap className="w-8 h-8 text-blue-600" />
-                        <span className="font-bold text-xl text-gray-900">EduLearn</span>
+                        <span className="font-bold text-xl text-gray-900">EduCare</span>
                     </Link>
 
                     <div className="hidden md:flex items-center space-x-8">

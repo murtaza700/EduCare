@@ -1,8 +1,8 @@
-# 📚 EduLearn - Online Learning Institute
+# 📚 EduCare - Online Learning Institute
 
 A modern, fully responsive React website for an online learning platform built with React.js, Tailwind CSS v4, and Framer Motion.
 
-![EduLearn Preview](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![EduCare Preview](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 ## 🚀 Live Demo
 
@@ -307,7 +307,7 @@ gh-pages -d build
 
 Your Name - [@GhuamMurtaza](https://twitter.com/GhuamMurtaza) - murtazakasur7@gmail.com
 
-Project Link: [https://github.com/yourusername/edulearn](https://github.com/yourusername/edulearn)
+Project Link: [https://github.com/murtaza700/EduCare](https://github.com/murtaza700/EduCare)
 
 ---
 

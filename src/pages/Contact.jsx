@@ -123,12 +123,12 @@ const Contact = () => {
                                         <div>
                                             <h3 className="font-semibold mb-1">Email Us</h3>
                                             <p className="text-gray-600">
-                                                <a href="mailto:info@edulearn.com" className="hover:text-blue-600">
-                                                    info@edulearn.com
+                                                <a href="mailto:info@educare.com" className="hover:text-blue-600">
+                                                    info@educare.com
                                                 </a>
                                                 <br />
-                                                <a href="mailto:support@edulearn.com" className="hover:text-blue-600">
-                                                    support@edulearn.com
+                                                <a href="mailto:support@care.com" className="hover:text-blue-600">
+                                                    support@educare.com
                                                 </a>
                                             </p>
                                         </div>
