@@ -6,7 +6,7 @@ A modern, fully responsive React website for an online learning platform built w
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) (Add your deployment link here)
+[View Live Demo](#)
 
 ## 📋 Table of Contents
 
@@ -116,8 +116,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/edulearn.git
-   cd edulearn
+   git clone https://github.com/yourusername/EduCare.git
+   cd EduCare
    ```
 
 2. **Install dependencies**
@@ -136,13 +136,11 @@ src/
 
 4. **Start the development server**
    ```bash
-   npm start
-   # or
-   yarn start
+   npm run dev
    ```
 
 5. **Open your browser**
-   Navigate to `http://localhost:3000`
+   Navigate to `http://localhost:5173`
 
 ## 💻 Usage
 
@@ -298,10 +296,6 @@ gh-pages -d build
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Images from [Unsplash](https://unsplash.com)
@@ -311,7 +305,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - murtazakasur7@example.com
+Your Name - [@GhuamMurtaza](https://twitter.com/GhuamMurtaza) - murtazakasur7@gmail.com
 
 Project Link: [https://github.com/yourusername/edulearn](https://github.com/yourusername/edulearn)
 
