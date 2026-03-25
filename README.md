@@ -6,7 +6,7 @@ A modern, fully responsive React website for an online learning platform built w
 
 ## 🚀 Live Demo
 
-[View Live Demo](#)
+[View Live Demo](https://educare-pearl-two.vercel.app/)
 
 ## 📋 Table of Contents
 
