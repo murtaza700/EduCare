@@ -146,9 +146,9 @@ src/
 
 ### Development
 ```bash
-npm start
+npm run dev
 ```
-Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in development mode. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ### Build for Production
 ```bash
@@ -305,7 +305,7 @@ gh-pages -d build
 
 ## 📧 Contact
 
-Your Name - [@GhuamMurtaza](https://twitter.com/GhuamMurtaza) - murtazakasur7@gmail.com
+Your Name - [Ghuam Murtaza](https://www.linkedin.com/in/murtaza7/) - murtazakasur7@gmail.com
 
 Project Link: [https://github.com/murtaza700/EduCare](https://github.com/murtaza700/EduCare)
 
