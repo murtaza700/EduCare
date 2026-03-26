@@ -81,10 +81,10 @@ const CourseDetails = () => {
                                     />
                                     <div>
                                         <h3 className="text-xl font-semibold mb-2">{course.instructor.name}</h3>
-                                        <p className="text-gray-600 mb-4">
+                                        <p className="text-gray-600 mb-4 text-wrap">
                                             Senior Web Developer with 10+ years of experience. Has taught over 10,000 students worldwide.
                                         </p>
-                                        <div className="flex gap-3">
+                                        <div className="flex gap-3 flex-wrap">
                                             <span className="bg-blue-100 text-blue-600 px-3 py-1 rounded-full text-sm">React</span>
                                             <span className="bg-blue-100 text-blue-600 px-3 py-1 rounded-full text-sm">Node.js</span>
                                             <span className="bg-blue-100 text-blue-600 px-3 py-1 rounded-full text-sm">JavaScript</span>
