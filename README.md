@@ -116,7 +116,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/EduCare.git
+   git clone https://github.com/murtaza700/EduCare.git
    cd EduCare
    ```
 
